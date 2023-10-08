@@ -1,2 +1,3 @@
 # React_tube
-Youtube clone with React and API provided by Youtube 
+Youtube clone with Powerful Js Librarary React and API's provided by Youtube 
+Author-Mohd Faizan Hussain
